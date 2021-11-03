@@ -1,1 +1,1 @@
-# card2
+https://cursebound.github.io/card2/
